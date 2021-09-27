@@ -8,6 +8,9 @@
     "test-log": "cross-env NODE_ENV=unittest jest --forceExit",
     "start": "node index.js"
   },
+  "engines": {
+    "node": "10.24.1"
+  },
   "author": "Global Hitss",
   "license": "ISC",
   "dependencies": {
