@@ -1,0 +1,13 @@
+{
+    "type": "service_account",
+    "project_id": "mutantrecruitmentbackend",
+    "private_key_id": "80e971792e482cf0f7905ec3c01d9de98e72d35d",
+    "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDWZYU8xcHAGzd2\nyoA4uaZI9+tgMK7LbW2Gel12KRC18HhW99U67j2r/5/9OuqrtGDF7oGnQzk21aRi\npWOMXrogyD47sEDszJuyViKMAGSxky+0knCfGQLBAA9mVJ9JscH6JqeGfqu7/I6F\n2/5IgDn9BF4QLgsFKQ7bVCUmY+6KWmvzIxDdIeLk6lgu6d4GqXkCLDBt1VXRvJir\n9+V9ValP/BeslUfmfw9MHDDQmyHBwlBdrrP4u8apvjMLRJ+4Gg6mtEEumgr/etLK\n3rue9pktE1ZKZEfgqWstVeeXLMZ5XCJbKGlkBMiRUE8E9tmx0Urbdm0ZVOEb1QuK\n33xMgpJfAgMBAAECggEAB7lGkIbrUPlqCRyIfAKsK+rKjv+R/IAntvWHkm8uS++q\n1i89fk8A58ZgxCWwOJlZ9yd9gkIYuJH/xxIAQRlUiUPNgib6X82LOmSCABsvhXow\n+MdhyUmEYOGYrG4WAvilbVahKGY915rko4vmYERGUogqv1h5SylMgLhKUlS9Tjyc\nzMRMNXQGTPMgcfpJpZJ/+DpDcs9+AnDnXA7n5FiggKSJ+e4qHbJLzJLN1EaM5QhQ\ne+ctXW7tnzLI4EYKMciH5RDd5ANYtJuVgh2Zo5nWxezcocQ7W1yLCHQGXcwDn+H/\nEuugdwzUZZC/jKJOzGChbg5Vytp1Yu1xzME0uUknmQKBgQDzBF6W5lGOlQlwjhT6\nLiQXuRBNQei3e5aeCsxi3se3lrQI7hHHsiLs5H/SmeeAJUQTjRhgRX6xhkogxZAf\nrxmyPmT9GnOEDRWIkC4bpkgd840SDc3wLXJLW1ynfER6gUIg4e4QiCOpo50mQFD7\nKC4LwFBGDNL8KXt/iKOunjJ6SwKBgQDh2bjEzo+7ifMvuNLDHZL7t65NGSwtXHJV\nmvXzrt708ob8zXYot7sQa3LnlYkb2wilGXzs87jLLSr7fvbqiABJlaidp17wxzWt\nXZeavrqVtPSx5feytzzvyWbIa1H4Dnqe0ADWkA5Jf4VIEAV02pZdSH9n3mXky+A+\nrXEZM807vQKBgGxGth5l4FC29s2/gHk3tb0cJ7dEdnvKBQHFresfd7zE2NJhwGpJ\nZGZIKOucxxjBgeN0Kjg6vog6XSzc2apESh6wzi43auCbM8z08JZBMECoE2LH48nv\ndc09l7rIE3rBvMUJ5RhYkAs1av9wCKTe8iUqOpn7fMX9dZkNOGDE+5ihAoGAfO/S\nNJ0ICfiwHLAjd2g+zRy5QVExjQ5c+Vo1wM317I7Vebe3K6MnyleGQvIH3O74A0zs\nPLA+g7bC1klQEkGV1x8BHeVesdehq/vgR+xGj1aBHoBW2/hdr1A8mZY0zAJGduAd\n9pPOM35lno2uVwwsrgHS6QSwXTcjH8kWjZiIagkCgYEAz+NY4xlQ+7FXjO5Q9a/e\nIDp9+FQxGcUIlNOxeWqKUuuALtabmINIxUSqfGf8a7smpp57HdC6aCIoxCC9hj4t\ntFPcxPCBHPmdRltqlHBI+nPXE3HWFfoNszT8woGYsxrZP6k9YUZlrmyCqXSwzvB7\nM5z8ZcULXZ/fuaaNYcn2YoI=\n-----END PRIVATE KEY-----\n",
+    "client_email": "datastore@mutantrecruitmentbackend.iam.gserviceaccount.com",
+    "client_id": "112448346368504865035",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/datastore%40mutantrecruitmentbackend.iam.gserviceaccount.com"
+  }
+  

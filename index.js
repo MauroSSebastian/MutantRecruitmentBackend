@@ -5,6 +5,8 @@ const port = process.env.NODE_PORT || 8080;
 
 const app = express();
 
+app.enable('trust proxy');
+
 app.use(express.json());
 app.use(cors());
 app.use((req, res, next) => {
@@ -15,7 +17,7 @@ app.use((req, res, next) => {
 });
 
 const mutant = require('./components/mutant/Routers');
-app.use('/mutant',mutant)
+app.use('/', mutant)
 
 const app_process = require('http').createServer(app);
 try {
