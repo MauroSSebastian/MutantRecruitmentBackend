@@ -1,0 +1,30 @@
+{
+  "name": "api",
+  "version": "1.0.0",
+  "description": "DoxtorBE",
+  "main": "index.js",
+  "scripts": {
+    "test": "cross-env NODE_ENV=unittest jest --silent --forceExit",
+    "test-log": "cross-env NODE_ENV=unittest jest --forceExit",
+    "start": "node index.js"
+  },
+  "author": "Global Hitss",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "cors": "^2.8.5",
+    "dotenv": "^8.2.0"
+  },
+  "devDependencies": {
+    "jest": "^27.0.6",
+    "supertest": "^6.1.3"
+  },
+  "jest": {
+    "testEnvironment": "node",
+    "coveragePathIgnorePatterns": [
+      "/node_modules/"
+    ],
+    "testTimeout": 10000,
+    "verbose": true
+  }
+}
