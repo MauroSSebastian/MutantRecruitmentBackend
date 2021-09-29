@@ -4,9 +4,10 @@
   "description": "DoxtorBE",
   "main": "index.js",
   "scripts": {
-    "test": "cross-env NODE_ENV=unittest jest --silent --forceExit",
-    "test-log": "cross-env NODE_ENV=unittest jest --forceExit",
-    "start": "node index.js"
+    "test": "cross-env NODE_ENV=unittest jest --silent  --coverage",
+    "test-log": "cross-env NODE_ENV=unittest jest  --coverage",
+    "start": "node index.js",
+    "nodemon": "nodemon index.js"
   },
   "engines": {
     "node": "10.24.1"
@@ -19,9 +20,19 @@
     "@google-cloud/storage": "^5.14.4",
     "cors": "^2.8.5",
     "dotenv": "^8.2.0",
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "faker": "^5.5.3",
+    "uuid": "^3.4.0",
+    "pg": "^8.5.1",
+    "pg-hstore": "^2.3.3",
+    "sequelize": "^6.3.5",
+    "sequelize-cli": "^6.2.0"
   },
   "devDependencies": {
+    "cross-env": "^7.0.3",
+    "eslint": "^7.30.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-plugin-import": "^2.23.4",
     "jest": "^27.0.6",
     "supertest": "^6.1.3"
   },
