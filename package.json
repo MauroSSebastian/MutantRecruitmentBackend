@@ -1,7 +1,7 @@
 {
-  "name": "api",
+  "name": "MutantRecruitmentBackend",
   "version": "1.0.0",
-  "description": "DoxtorBE",
+  "description": "Reclutamiento de mutantes",
   "main": "index.js",
   "scripts": {
     "test": "cross-env NODE_ENV=unittest jest --silent  --coverage",
@@ -12,7 +12,7 @@
   "engines": {
     "node": "10.24.1"
   },
-  "author": "Global Hitss",
+  "author": "Mauro Sebastian Torrez",
   "license": "ISC",
   "dependencies": {
     "@google-cloud/connect-datastore": "^5.0.3",
@@ -21,12 +21,7 @@
     "cors": "^2.8.5",
     "dotenv": "^8.2.0",
     "express": "^4.17.1",
-    "faker": "^5.5.3",
-    "uuid": "^3.4.0",
-    "pg": "^8.5.1",
-    "pg-hstore": "^2.3.3",
-    "sequelize": "^6.3.5",
-    "sequelize-cli": "^6.2.0"
+    "uuid": "^3.4.0"
   },
   "devDependencies": {
     "cross-env": "^7.0.3",
