@@ -11,7 +11,7 @@ unit test example with jest and supertest,
 static code analysis with eslint
 ```
 
-## Project setup
+### Project setup
 ```
 npm install
 ```
