@@ -2,7 +2,7 @@
 Magneto quiere reclutar la mayor cantidad de mutantes para poder luchar contra los X-Men. 
 Se desarrollo una API que brinde servicios para estos fines.
 
-## Library
+### Library
 ```
 api framework express (nodejs),
 cors config with cors npm,
@@ -11,7 +11,7 @@ unit test example with jest and supertest,
 static code analysis with eslint
 ```
 
-## Database
+### Database
 ```
 noSQL with google-cloud/datastore
 ```
